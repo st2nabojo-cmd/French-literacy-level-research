@@ -1,7 +1,7 @@
 # Research Overview
 
 > High-level synthesis of everything this wiki knows. Regenerated after major ingests.
-> Last regenerated: 2026-04-22 (initialization — no sources yet)
+> Last regenerated: 2026-04-22 (after first ingest batch — 2 sources)
 
 ---
 
@@ -25,13 +25,26 @@ Key questions to investigate:
 
 ## Theme 2: Literacy Levels in France (Ages 8–12)
 
-*No sources ingested yet.*
+**2 sources. Good initial foundation on early literacy and historical context. Gaps remain for the 8–12 age range specifically.**
 
-Key questions to investigate:
-- What are the official reading benchmarks for cycle 3 (CE2–CM2) and early cycle 4 (6ème)?
-- What vocabulary size is expected at each age?
-- What sentence complexity is appropriate?
-- What do PIRLS and national evaluations say about current literacy levels?
+### What we know: Foundations of French literacy
+
+**The four pillars of early literacy** (from [[2026-04-22-eple-french-literacy-scale]]) are letter knowledge, vocabulary, [[Phonological Awareness]], and oral comprehension. These foundational skills are measured by the [[EPLE Scale]] — the first validated French-language assessment tool for preschoolers. Before this scale, no French-language tools existed; English instruments had to be (inadequately) adapted. This gap suggests that French literacy research has historically been less empirically grounded than its English-language counterpart.
+
+**The sociology of French schooled literacy** (from [[2026-04-22-paradoxes-french-literacy-instruction]]) is essential context. Three key insights:
+
+1. **French literacy is highly constructed.** [[André Chervel]]'s historical work shows that "French" as a school subject — with its specific grammar, orthography, and literary canon — was deliberately built over centuries. It is not natural or inevitable, but a cultural artifact.
+
+2. **French schooling produces inequality, not just reproduces it.** [[Bernard Lahire]]'s concept of the [[Scriptal-Schooled Relation]] shows that formal schooling constructs an abstract, reflexive mode of engaging with language that children from non-reading households find alienating. School failure in France is partly a structural product of schooling itself.
+
+3. **"Literacy" is culturally contested in France.** French scholars prefer *culture écrite* (written culture) to the Anglo-American term *literacy* (translated as *littéracie*). This reflects a deeper preference for a socially embedded, historically situated understanding of reading and writing over a skills-deficit model.
+
+### Critical gap: ages 8–12
+
+Both current sources focus on earlier stages (preschool/kindergarten for the EPLE paper; historical/sociological framing for the Paradoxes essay). We have **no sources yet that directly address reading benchmarks, vocabulary norms, or comprehension standards for French children aged 8–12** (cycle 3: CE2, CM1, CM2). This is the primary research gap to address next.
+
+> [!question] Priority research gap
+> Find sources on: French national reading assessments for cycle 3, PIRLS France results, official reading benchmarks (socle commun), typical vocabulary ranges at ages 8–12.
 
 ---
 
@@ -57,6 +70,8 @@ Key questions to investigate:
 - What role do characters, conflict, and resolution play in learning?
 - Are there differences between reading on paper vs. screen?
 
+**However**, from Theme 2 we already have one pedagogically actionable insight: [[Bernard Lahire]]'s analysis suggests that effective French children's books should deliberately *resist* the [[Scriptal-Schooled Relation]] — using embodied, conversational, situational language rather than formal, analytical prose. Books that feel like school assignments will disengage readers.
+
 ---
 
 ## Theme 5: Market & Publishing Landscape
@@ -71,15 +86,26 @@ Key questions to investigate:
 
 ---
 
-## Cross-Cutting Questions
+## Cross-Cutting Insights (from current sources)
 
-- Can AI-generated text meet the literacy and pedagogical standards for this age group?
-- What level of human editing is needed to make AI text publishable?
-- How do French parents and educators perceive AI-authored content for children?
-- What legal/ethical considerations exist around AI-generated children's content in France?
+### For the writing style of our book
+- **Resist the forme scolaire:** French children have been conditioned to associate formal, abstract language with school (duty) and informal, sensory language with pleasure. Our book should lean into the latter.
+- **Activate phonological awareness:** French children's literary tradition includes strong phonological play (rhyme, rhythm, alliteration). Even for fluent readers aged 8–12, this makes text more engaging.
+- **Vocabulary in context:** Vocabulary is a key literacy domain. A good children's book expands vocabulary through narrative context — encountering new words in meaningful situations, not as lists.
+
+### For accessibility and inclusion
+- **SES matters early and persistently:** The [[EPLE Scale]] study confirms SES links to early literacy at age 5. [[Literacy Inequality in France]] is a structural feature of the French education system. Our book should be designed to be accessible to children from diverse socioeconomic backgrounds — avoiding prestige-register gatekeeping and cultural references that assume a middle-class home environment.
+
+### For research strategy
+- French literacy scholarship uses different terminology than English-language research. Searching *culture écrite*, *littéracie*, *cycle 3*, *socle commun* will unlock different (and complementary) literature.
 
 ---
 
 ## Current State
 
-The wiki is **freshly initialized** and awaiting its first source. Start by dropping articles, papers, or transcripts into `raw/` and running `/ingest`.
+**2 sources ingested** (2026-04-22). Theme 2 has its first content. Themes 1, 3, 4, and 5 are awaiting first sources.
+
+**Next priorities:**
+1. Find sources on French literacy benchmarks for ages 8–12 (fill the most critical gap)
+2. Find sources on French children's book conventions and publishing
+3. Find sources on AI writing in French / stylistic quality evaluation
