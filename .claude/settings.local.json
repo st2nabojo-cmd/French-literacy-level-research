@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\st2na\\\\Downloads\\\\Tools\\\\Obsedian\\\\Nabojo_Obsidian_Research\" -Recurse -Force)",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\st2na\\\\Downloads\\\\Tools\\\\Obsedian\\\\Nabojo_Obsidian_Research\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Bash(grep -v \"^$\")"
+    ]
+  }
+}
