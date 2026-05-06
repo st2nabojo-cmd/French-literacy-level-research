@@ -1,111 +1,67 @@
-# Research Overview
+# Nabojo Pipeline Knowledge Base — Overview
 
-> High-level synthesis of everything this wiki knows. Regenerated after major ingests.
-> Last regenerated: 2026-04-22 (after first ingest batch — 2 sources)
-
----
-
-## Project Goal
-
-We are researching how to create a **children's book for French readers aged 8–12**, potentially using **Creative AI writing in French**. This wiki compiles research across five interconnected themes.
+> Last regenerated: 2026-05-06 (initialization — no sources ingested yet)
+> Run `/overview` after ingesting sources to regenerate this file.
 
 ---
 
-## Theme 1: Creative AI Writing in French
+## Pipeline Health Summary
 
-*No sources ingested yet.*
+| Tier | Ages | Matter Status | Manner Status | Sources | Open Questions |
+|------|------|--------------|--------------|---------|----------------|
+| 1 | 6–7 | draft | draft | 0 | 1 |
+| 2 | 7–8 | draft | draft | 0 | 1 |
+| 3 | 8–10 | draft | draft | 0 | 1 |
+| 4 | 10–12 | draft | draft | 0 | 1 |
 
-Key questions to investigate:
-- How well do current LLMs generate literary-quality French prose for children?
-- What stylistic controls exist (vocabulary level, sentence length, tone)?
-- What are the known failure modes (awkward phrasing, cultural missteps, register errors)?
-- How do human editors collaborate with AI-generated drafts?
-
----
-
-## Theme 2: Literacy Levels in France (Ages 8–12)
-
-**2 sources. Good initial foundation on early literacy and historical context. Gaps remain for the 8–12 age range specifically.**
-
-### What we know: Foundations of French literacy
-
-**The four pillars of early literacy** (from [[2026-04-22-eple-french-literacy-scale]]) are letter knowledge, vocabulary, [[Phonological Awareness]], and oral comprehension. These foundational skills are measured by the [[EPLE Scale]] — the first validated French-language assessment tool for preschoolers. Before this scale, no French-language tools existed; English instruments had to be (inadequately) adapted. This gap suggests that French literacy research has historically been less empirically grounded than its English-language counterpart.
-
-**The sociology of French schooled literacy** (from [[2026-04-22-paradoxes-french-literacy-instruction]]) is essential context. Three key insights:
-
-1. **French literacy is highly constructed.** [[André Chervel]]'s historical work shows that "French" as a school subject — with its specific grammar, orthography, and literary canon — was deliberately built over centuries. It is not natural or inevitable, but a cultural artifact.
-
-2. **French schooling produces inequality, not just reproduces it.** [[Bernard Lahire]]'s concept of the [[Scriptal-Schooled Relation]] shows that formal schooling constructs an abstract, reflexive mode of engaging with language that children from non-reading households find alienating. School failure in France is partly a structural product of schooling itself.
-
-3. **"Literacy" is culturally contested in France.** French scholars prefer *culture écrite* (written culture) to the Anglo-American term *literacy* (translated as *littéracie*). This reflects a deeper preference for a socially embedded, historically situated understanding of reading and writing over a skills-deficit model.
-
-### Critical gap: ages 8–12
-
-Both current sources focus on earlier stages (preschool/kindergarten for the EPLE paper; historical/sociological framing for the Paradoxes essay). We have **no sources yet that directly address reading benchmarks, vocabulary norms, or comprehension standards for French children aged 8–12** (cycle 3: CE2, CM1, CM2). This is the primary research gap to address next.
-
-> [!question] Priority research gap
-> Find sources on: French national reading assessments for cycle 3, PIRLS France results, official reading benchmarks (socle commun), typical vocabulary ranges at ages 8–12.
+All tier pages are stubs. The wiki needs research sources to be ingested before it can inform the pipeline.
 
 ---
 
-## Theme 3: What Makes a Children's Book
+## Tier 1 (Ages 6–7) — Summary
 
-*No sources ingested yet.*
+No sources ingested yet. See [[tier1-matter]] and [[tier1-manner]] for stub pages.
 
-Key questions to investigate:
-- What are the genre conventions (album, roman jeunesse, conte, BD)?
-- What is the typical text/illustration ratio by age group?
-- What narrative structures work best (linear, episodic, quest, mystery)?
-- What are publishers' editorial guidelines?
+> [!question] All sections of Tier 1 Matter and Manner are unpopulated. Priority: ingest pedagogy research on emergent literacy, French CP/CE1 curriculum standards, and research on interactive narrative for 6–7 year olds.
 
 ---
 
-## Theme 4: How Children Learn Through Storybooks
+## Tier 2 (Ages 7–8) — Summary
 
-*No sources ingested yet.*
+No sources ingested yet. See [[tier2-matter]] and [[tier2-manner]] for stub pages.
 
-Key questions to investigate:
-- What does cognitive science say about narrative learning at ages 8–12?
-- How does reading fiction develop empathy, vocabulary, and critical thinking?
-- What role do characters, conflict, and resolution play in learning?
-- Are there differences between reading on paper vs. screen?
-
-**However**, from Theme 2 we already have one pedagogically actionable insight: [[Bernard Lahire]]'s analysis suggests that effective French children's books should deliberately *resist* the [[Scriptal-Schooled Relation]] — using embodied, conversational, situational language rather than formal, analytical prose. Books that feel like school assignments will disengage readers.
+> [!question] All sections of Tier 2 Matter and Manner are unpopulated.
 
 ---
 
-## Theme 5: Market & Publishing Landscape
+## Tier 3 (Ages 8–10) — Summary
 
-*No sources ingested yet.*
+No sources ingested yet. See [[tier3-matter]] and [[tier3-manner]] for stub pages.
 
-Key questions to investigate:
-- Who are the major French children's book publishers (Gallimard Jeunesse, Bayard, Nathan, etc.)?
-- What are current market trends in French children's literature?
-- Are there comparable AI-assisted children's books already published?
-- What are typical print runs, pricing, and distribution channels?
+> [!question] All sections of Tier 3 Matter and Manner are unpopulated.
 
 ---
 
-## Cross-Cutting Insights (from current sources)
+## Tier 4 (Ages 10–12) — Summary
 
-### For the writing style of our book
-- **Resist the forme scolaire:** French children have been conditioned to associate formal, abstract language with school (duty) and informal, sensory language with pleasure. Our book should lean into the latter.
-- **Activate phonological awareness:** French children's literary tradition includes strong phonological play (rhyme, rhythm, alliteration). Even for fluent readers aged 8–12, this makes text more engaging.
-- **Vocabulary in context:** Vocabulary is a key literacy domain. A good children's book expands vocabulary through narrative context — encountering new words in meaningful situations, not as lists.
+No sources ingested yet. See [[tier4-matter]] and [[tier4-manner]] for stub pages.
 
-### For accessibility and inclusion
-- **SES matters early and persistently:** The [[EPLE Scale]] study confirms SES links to early literacy at age 5. [[Literacy Inequality in France]] is a structural feature of the French education system. Our book should be designed to be accessible to children from diverse socioeconomic backgrounds — avoiding prestige-register gatekeeping and cultural references that assume a middle-class home environment.
-
-### For research strategy
-- French literacy scholarship uses different terminology than English-language research. Searching *culture écrite*, *littéracie*, *cycle 3*, *socle commun* will unlock different (and complementary) literature.
+> [!question] All sections of Tier 4 Matter and Manner are unpopulated.
 
 ---
 
-## Current State
+## Cross-Tier Insights
 
-**2 sources ingested** (2026-04-22). Theme 2 has its first content. Themes 1, 3, 4, and 5 are awaiting first sources.
+_(None yet — will be populated as sources are ingested.)_
 
-**Next priorities:**
-1. Find sources on French literacy benchmarks for ages 8–12 (fill the most critical gap)
-2. Find sources on French children's book conventions and publishing
-3. Find sources on AI writing in French / stylistic quality evaluation
+---
+
+## Research Priorities
+
+Suggested starting points for filling the wiki:
+
+1. **French curriculum standards** — Socle commun (national skills framework), PIRLS data on French readers, cycle 2 and cycle 3 reading benchmarks. These will inform Manner (sentence complexity, vocabulary) for all tiers.
+2. **Developmental psychology of reading** — Cognitive load research, working memory by age, reading motivation by tier. Informs both Matter (emotional range) and Manner (pacing, structure).
+3. **Interactive narrative pedagogy** — Research on branching narratives for young readers. Directly informs the Interactive Choice Mechanics section of each Manner page.
+4. **French children's publishing norms** — What themes, character types, and narrative structures are conventional in French literature for each age group. Informs Matter.
+5. **French school context** — Social and cultural anchors specific to French children (la rentrée, les grandes vacances, etc.). Informs French Cultural Considerations on each Matter page.

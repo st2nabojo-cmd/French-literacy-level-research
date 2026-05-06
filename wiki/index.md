@@ -5,71 +5,31 @@
 
 ---
 
-## Sources (`wiki/sources/`)
+## Tier Pages
 
-| Slug | Title | Type | Language | Tags |
-|------|-------|------|----------|------|
-| [2026-04-22-eple-french-literacy-scale](sources/2026-04-22-eple-french-literacy-scale.md) | Development of a French-language Early Literacy Scale (EPLE) | paper | en | literacy, French-language, peer-reviewed |
-| [2026-04-22-paradoxes-french-literacy-instruction](sources/2026-04-22-paradoxes-french-literacy-instruction.md) | Paradoxes in French-Language Instruction (Rockwell & Galvão) | paper | en | literacy, French-language, peer-reviewed, pedagogy |
-
----
-
-## Entities (`wiki/entities/`)
-
-| Name | Entity Type | Sources Count |
-|------|-------------|---------------|
-| [Aude Thomas](entities/aude-thomas.md) | person | 1 |
-| [Université de Lorraine](entities/universite-de-lorraine.md) | institution | 1 |
-| [EPLE Scale](entities/eple-scale.md) | tool | 1 |
-| [Elsie Rockwell](entities/elsie-rockwell.md) | person | 1 |
-| [Bernard Lahire](entities/bernard-lahire.md) | person | 1 |
-| [André Chervel](entities/andre-chervel.md) | person | 1 |
-| [Anne-Marie Chartier](entities/anne-marie-chartier.md) | person | 1 |
+| Page | Type | Tier | Ages | Status | Sources |
+|------|------|------|------|--------|---------|
+| [[tier1-matter]] | tier-matter | 1 | 6–7 | draft | 0 |
+| [[tier1-manner]] | tier-manner | 1 | 6–7 | draft | 0 |
+| [[tier2-matter]] | tier-matter | 2 | 7–8 | draft | 0 |
+| [[tier2-manner]] | tier-manner | 2 | 7–8 | draft | 0 |
+| [[tier3-matter]] | tier-matter | 3 | 8–10 | draft | 0 |
+| [[tier3-manner]] | tier-manner | 3 | 8–10 | draft | 0 |
+| [[tier4-matter]] | tier-matter | 4 | 10–12 | draft | 0 |
+| [[tier4-manner]] | tier-manner | 4 | 10–12 | draft | 0 |
 
 ---
 
-## Concepts (`wiki/concepts/`)
+## Sources
 
-| Name | Domain | Sources Count |
-|------|--------|---------------|
-| [Early Literacy](concepts/early-literacy.md) | literacy | 1 |
-| [Phonological Awareness](concepts/phonological-awareness.md) | literacy | 1 |
-| [Scriptal-Schooled Relation](concepts/scriptal-schooled-relation.md) | literacy | 1 |
-| [Literacy Inequality in France](concepts/literacy-inequality-france.md) | literacy | 2 |
-| [Culture Écrite](concepts/culture-ecrite.md) | literacy | 1 |
+| Slug | Title | Tiers | Stage | Confidence |
+|------|-------|-------|-------|------------|
+| _(none yet)_ | | | | |
 
 ---
 
-## Comparisons (`wiki/comparisons/`)
+## Concepts
 
-| Title | Items Compared | Date |
-|-------|---------------|------|
-| *(no comparisons yet)* | | |
-
----
-
-## Wanted Pages (linked but not yet created)
-
-These `[[wiki-links]]` appear in existing pages but have no page yet. High-priority ones appear in 2+ pages:
-
-| Wanted Page | Appears In |
-|-------------|-----------|
-| [[Forme Scolaire]] | bernard-lahire, scriptal-schooled-relation, literacy-inequality-france |
-| [[Schooled Literacy]] | early-literacy, culture-ecrite, andre-chervel |
-| [[Raison Scolaire]] | bernard-lahire, scriptal-schooled-relation |
-| [[Pierre Bourdieu]] | bernard-lahire, scriptal-schooled-relation, literacy-inequality-france |
-| [[Jules Ferry]] | scriptal-schooled-relation, literacy-inequality-france |
-| [[Ana Maria Galvão]] | elsie-rockwell, paradoxes source |
-| [[Vocabulary Development]] | eple source, early-literacy |
-| [[Letter Knowledge]] | eple-scale, early-literacy |
-| [[Oral Comprehension]] | eple-scale, early-literacy |
-
----
-
-## Statistics
-
-- **Total sources ingested:** 2
-- **Total entity pages:** 7
-- **Total concept pages:** 5
-- **Total comparison pages:** 0
-- **Last updated:** 2026-04-22
+| Page | Domain | Tiers | Stage |
+|------|--------|-------|-------|
+| _(none yet)_ | | | |
