@@ -1,0 +1,32 @@
+---
+title: "Jinx brings moral ambiguity to the worlds of Middle Grade fantasy"
+source: "https://gizmodo.com/jinx-brings-moral-ambiguity-to-the-worlds-of-middle-gra-476817571"
+author:
+  - "[[Michael Ann Dobbs]]"
+published: 2013-05-07
+created: 2026-05-06
+description: "The Urwald could be the dark forest of any fairytale — provided that dark forest is filled with ogres, murderous trees, trolls, witches who travel by"
+tags:
+  - "clippings"
+---
+The Urwald could be the dark forest of any fairytale — provided that dark forest is filled with ogres, murderous trees, trolls, witches who travel by butter churn, firebirds, dragons, and weres (wolves, bears and chipmunks). In [Sage Blackwood’s thrilling new middle grade novel Jinx](https://www.amazon.com/dp/0062129902?tag=gizmodo08c-20), nothing is ever quite as simple as you expect.
+
+<iframe title="Jinx (Jinx, 1)" type="text/html" width="500" height="550" frameborder="0" allowfullscreen="" src="https://read.amazon.com/kp/card?preview=inline&amp;linkCode=ogi&amp;ref_=k4w_oembed_o2NipkKnfgdJyM&amp;asin=0062129902&amp;tag=kpembed-20"></iframe>
+
+Top Image: VJ\_Flicks via Flickr
+
+Jinx, whose father was killed by a werewolf and mother was carried off by elves, is abandoned in the Urwald by a stepfather and taken in by the wizard Simon. Jinx learns to read, write and do a little magic. Simon feeds him and doesn’t hit him, unlike all the other adults Jinx has known. When Jinx is about twelve, he goes into the forest to seek his fortune. He gains some travelling companions – including a girl in a red cloak on the way to her grandmother’s house – learns a little about his past and is captured by an evil wizard. And that’s just the beginning of Jinx’s misfortunes.
+
+Jinx is not much of a hero – he cannot stand blood or violence. But in a place like the Urwald, both of those things are common. He’s also not particularly good at wizarding magic. He does have some magical abilities, like an exceptional ease with languages, and the ability to listen to the trees of Urwald and to see most people’s feelings in a sort of emotional cloud that surrounds them. None of these powers affords him much in the way of physical protection when there are trolls and werewolves around. He is also regularly plagued with doubt and confusion.
+
+And if Jinx is not your standard strong-willed protagonist, Simon is not some Dumbledorian wizard protector with twinkly eyes, either. He’s a condescending workaholic who often forgets Jinx is even around. And it’s not entirely clear why he’s taken Jinx in. Did he rescue the boy out of kindness, or does he have some darker purpose in mind? And he certainly is no all-knowing magical expert – many of Jinx’s questions about magic are met with an ‘I don’t know.’ A local witch, Dame Glammer, assures Jinx that Simon will use him as an ingredient in his magic. But for her part, Dame Glammer may or may not bewitch her house to look like gingerbread so she can capture and eat children.
+
+Simon finally does work a spell on Jinx, and the results eventually drive Jinx from Simon’s house. On his way to Dame Glammer’s house to try and discover what exactly Simon did to him, Jinx meets Elfwyn and Reven. Reven’s a boy raised in a foreign court who understands nothing of the Urwald. Elfwyn’s been kicked out be her new stepfather and is on her way to stay with her grandmother, Dame Glammer. Both Reven and Elfwyn have serious curses on them and Dame Glammer gleefully suggests they visit the Bonemaster, a wizard who everyone in Urwald knows is evil.
+
+The book has an off-kilter streak of subtle humor which keeps it from ever getting too grim. The book also has a mild environmentalist message, which does not feel tacked on. Plenty of books for this age range make nods towards similar themes, but it feels much more organic, if you will, in a world where the trees have negotiated a truce — and take it upon themselves to enforce it. Blackwood’s descriptions of the Urwald give the world the twilit physicality of an old-growth forest. The humor and writing is reminiscent of Diana Wynn Jones, without feeling at all derivative. The book’s combined focus on adventuring and human feelings ought to make it appealing to all kinds of younger readers.
+
+Jinx is great character — he’s steeped in his Urwish fear, but feels compelled to explore and learn. His conflicted feelings about Simon, who took care of him but has done something seemingly terrible, are the sort of realistic conflict that children have about parents. All of the supporting characters are equally as well-rounded. Except for the Bonemaster, the characters’ behaviors are a blend of good, bad and inscrutable. It’s a decidedly modern and adult view of human motivations and the compromises people make to get by in their lives. Middle grade fiction still tends to present characters who are either good or bad (or occasionally, one pretending to be the other). But Jinx is much more interested in moral ambiguity and the inexplicable than many similar books. Even the Bonemaster has truths to tell, whether or not Jinx wants to hear them.
+
+Plenty of the book’s multiple plotlines are unresolved at the end, suggesting this is the beginning of a series, though the publisher has not smacked a “First of an epic new series!” sticker on the book. Unfortunately this makes the book sort of wander around over to its end, which detracts from what has gone before. Striking a good balance between story closure and open-endedness is hard, and I wish Blackwood had opted for a bit more closure. Nonetheless, I’m excited to see if Reven and Elfwyn can be un-enchanted, Jinx will study to become a real wizard, and what Dame Glammer’s real motivations are.
+
+There are plenty of anti-heroes, charismatic villains and people who you just aren’t sure about in adult science fiction and fantasy. Jinx lets the preteen reader in on this trend, with marvelous results. So if you think Iron Man lost its edge when they didn’t make Tony Stark a barely functioning alcoholic or that your kids are missing out on the moral complexity of Game of Thrones — but you aren’t interested in having them see all the violence and nudity — Jinx is the morally ambiguous middle grade novel to pick up for them.
