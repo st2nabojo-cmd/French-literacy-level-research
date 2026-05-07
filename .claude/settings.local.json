@@ -12,7 +12,12 @@
       "Bash(git -C \"c:\\\\Users\\\\st2na\\\\Downloads\\\\Tools\\\\Obsedian\\\\Nabojo_Obsidian_Research\" log --oneline -20)",
       "Bash(rm wiki/sources/*.md)",
       "Bash(rm wiki/entities/*.md)",
-      "Bash(rm wiki/concepts/*.md)"
+      "Bash(rm wiki/concepts/*.md)",
+      "Bash(python -c \"import PyPDF2; print\\('PyPDF2 ok'\\)\")",
+      "Bash(python -c \"import pdfplumber; print\\('pdfplumber ok'\\)\")",
+      "Bash(python -c \"import fitz; print\\('fitz ok'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python -c ' *)"
     ]
   }
 }
